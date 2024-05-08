@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="utf-8">
+        <title>Curso HTML5 Essencial</title>
+       
+        <link href="css/estilo.css" rel="stylesheet" media="screen">
+       
+        <style>
+        html {
+background-color:#3f1414;
+font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+font-size:12px;
+}
+
+body {
+width:560px;
+border:1px solid #38d618;
+margin:10px auto;
+background-color: rgb(106,56,199);
+padding:10px 30px;
+border-radius:5px;
+}
+h1{
+font-family:Arial, Helvetica, sans-serif;
+font-size:20px;
+font-style:italic;
+letter-spacing:-0.05em;
+color:rgb(27, 6, 6);
+margin:2px 0 15px;
+text-shadow:1px 1px 2px #130303;
+}
+
+
+h2 {
+font-family:Georgia, "Times New Roman", Times, serif;
+font-size:40px;
+font-style:italic;
+letter-spacing:-0.05em;
+color:rgb(228, 221, 221);
+margin:2px 0 15px;
+text-shadow:1px 1px 2px #130303;
+}
+h3 {
+font-family:Georgia, "Times New Roman", Times, serif;
+font-size:20px;
+font-style:italic;
+letter-spacing:-0.05em;
+color:rgb(240, 233, 233);
+margin:2px 0 15px;
+text-shadow:1px 1px 2px #fcf6f6;
+}
+
+
+input {
+display:block;
+margin-bottom:20px;
+border:1px solid #414141;
+padding:8px;
+border-radius:3px;
+}
+
+input:focus {
+border:1px solid #c02323;
+outline:none;
+}
+
+input[type=submit] {
+width:100px;
+color:#ce0909;
+background:linear-gradient(top, rgb(255, 6, 6), rgb(255, 0, 0) );
+border:1px solid #333;
+cursor:pointer;
+}
+
+
+        </style>
+       <img src= "D_NQ_NP_782613-MLU72664596261_112023-O.webp" height="150" width="400">
+       
+    </head>
+
+    <body>
+       <H1>O Game se passa no estado ficcional de San Andreas, baseado na Califórnia do Sul, nos EUA. Traz a história de campanha simultânea de três criminosos: o ladrão de bancos aposentado Michael 'Mike' De Santa, o gângster de rua Franklin Clinton e o traficante de armas psicopata Trevor Philips.</H1>
+        <h2>R$ 150,00
+        </h2>
+        <h3>Formas de pagamento</h3>
+        <h3>localização:
+        </h3>
+        <form action="destino.html" method="post">
+            <img src= "Flag_of_Brazil.svg.webp" height="50" width="85"> 
+
+            
+           
+            
+            
+            <input type="number" name="filhos" id="filhos" size="30" maxlength="60" required autofocus placeholder="COMPRAR AGORA">
+            
+            <input type="number" name="filhos" id="filhos" size="30" maxlength="9
+            " required autofocus placeholder="ADICIONAR AO CARRINHO">
+             
+
+        
+           
+
+
+
+           
+
+
+            
+           
+    
+        
+
+        </form>
+   
+    </body>
+</html>
